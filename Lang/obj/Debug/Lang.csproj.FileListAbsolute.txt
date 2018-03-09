@@ -1,0 +1,7 @@
+C:\Users\AdanaC\source\repos\Lang\Lang\bin\Debug\Lang.exe.config
+C:\Users\AdanaC\source\repos\Lang\Lang\bin\Debug\Lang.exe
+C:\Users\AdanaC\source\repos\Lang\Lang\bin\Debug\Lang.pdb
+C:\Users\AdanaC\source\repos\Lang\Lang\obj\Debug\Lang.csprojResolveAssemblyReference.cache
+C:\Users\AdanaC\source\repos\Lang\Lang\obj\Debug\Lang.csproj.CoreCompileInputs.cache
+C:\Users\AdanaC\source\repos\Lang\Lang\obj\Debug\Lang.exe
+C:\Users\AdanaC\source\repos\Lang\Lang\obj\Debug\Lang.pdb
